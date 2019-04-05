@@ -1,0 +1,94 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Lalezar|Lato|Noto+Serif');
+</style>
+
+html {
+  box-sizing: border-box;
+  box-sizingg: inherit;
+  width: 960px;
+  margin: 0; auto;
+}
+
+header {
+  height: 500px;
+
+}
+
+
+nav ul {
+  list-style-type: none;
+  padding-left: 10px;
+
+}
+
+
+body {
+  color: #222
+}
+
+h1 {
+  font-family: "Lalezar", cursive;
+  background-color: rgb(255,240,245);
+  font-size: 72px;
+  dispay: inline-block;
+  border-width: 2px;
+  text-align: center;
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+}
+
+h2 {
+  font-family: "Noto Serif", serif;
+  font size: 18px;
+
+}
+
+h3 {
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+
+}
+
+section {
+  border-style: solid;
+  border-color: rgb(255,240,245);
+  border-width: 2px;
+  padding: 10px;
+
+}
+
+
+
+footer {
+  padding: 10px;
+  background-color: rgb(255,240,245);
+  font-size: 15px;
+  font-family: "Lato", sans-serif;
+
+}
+
+a:default {
+  color: orange;
+}
+
+a:visit {
+  color: purple;
+}
+
+a:hover {
+  color: white;
+  background-color: rgb(255,240,245);
+}
+
+a:active {
+  color: blue;
+}
