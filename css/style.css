@@ -1,0 +1,37 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Archivo+Black|Judson|Stylish');
+</style>
+
+
+body {
+  font-family:'Judson', serif;
+  font-size: 12px;
+  color: #000000;
+}
+
+
+header {
+font-family:'stylish', sans-serif;
+font-size: 30px;
+color: #000000;
+
+}
+
+
+h2 {
+  font-family:'Archivo Black', sans-serif;
+}
+
+
+nav {
+font-family:'Judson', serif;
+font-size: 20px;
+color: #;
+}
+
+
+footer {
+  font-family: 'Judson', serif;
+  font-size: 20px;
+  color: #;
+}
